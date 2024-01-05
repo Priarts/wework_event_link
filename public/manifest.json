@@ -1,0 +1,21 @@
+{
+  "name": "WeWork Event Other Link",
+  "description": "WeWork Event Other Link",
+  "version": "0.1",
+  "manifest_version": 3,
+  "icons": {
+    "16": "we16.png",
+    "48": "we48.png",
+    "128": "we128.png"
+  },
+  "action": {
+    "default_title": "Click"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
