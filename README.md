@@ -1,4 +1,4 @@
-# wework_event
+# wework_event_link
 
 - パッケージ化されていない機能拡張で読み込みます
   1. Chromeのメニュー「ウィンドウ」→「拡張機能」
